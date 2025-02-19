@@ -129,9 +129,13 @@ AutismLens is a comprehensive AI-driven diagnostic tool that leverages deep lear
 ---
 
 ## Web Application (Streamlit)
+![image](https://github.com/user-attachments/assets/fa0ac850-06de-4597-9897-819a52c2e0c8)
+
 The AutismLens web application provides an intuitive interface for ASD assessment:
 1. **Image Upload**: Users can upload facial and MRI images.
 2. **ASQ Survey**: Users complete a 10-question Autism Spectrum Quotient survey.
 3. **Model Inference**: The system runs each input through its respective model.
 4. **Meta-Model Prediction**: Results from all models are aggregated for a final diagnostic.
 5. **Report Generation**: The Groq-powered LLM generates a comprehensive patient report.
+
+---
