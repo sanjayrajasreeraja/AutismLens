@@ -1,7 +1,7 @@
 # AutismLens
 
 ## Overview
-AutismLens is a comprehensive AI-driven diagnostic tool that leverages deep learning and machine learning techniques to assist in the early detection of Autism Spectrum Disorder (ASD). This project integrates multiple models to analyze facial images, MRI scans, and Autism Spectrum Quotient (ASQ) survey responses, culminating in a powerful meta-model that enhances diagnostic accuracy. The system is deployed as a user-friendly Streamlit web application, providing accessible diagnostics and automated report generation using Large Language Models (LLM).
+AutismLens is a comprehensive AI-driven diagnostic tool that leverages deep learning and machine learning techniques to assist in the early detection of Autism Spectrum Disorder (ASD). This project integrates multiple models to analyze facial images, MRI scans, and Autism Spectrum Questionnaire (ASQ) survey responses, culminating in a powerful meta-model that enhances diagnostic accuracy. The system is deployed as a user-friendly Streamlit web application, providing accessible diagnostics and automated report generation using Large Language Models (LLM).
 
 --- 
 
@@ -90,7 +90,7 @@ AutismLens is a comprehensive AI-driven diagnostic tool that leverages deep lear
 
 ---
 
-## Dataset
+## Dataset (Samples)
 
 ### 1) Face and Mri Image Dataset:
 - Autistic_Face:
@@ -106,8 +106,25 @@ AutismLens is a comprehensive AI-driven diagnostic tool that leverages deep lear
 ![image](https://github.com/user-attachments/assets/70d67267-c51a-46b9-b4d0-02a98be6537c)
 
 ### 2) Autism Spectrum Questionnaire Dataset:
+![image](https://github.com/user-attachments/assets/8ed293e0-ec8c-4b04-bcaa-876869ffc4af)
 
 ### 3) Meta-Model Dataset:
+![image](https://github.com/user-attachments/assets/530accc3-6c64-43cb-abca-536c8964e3c5)
+
+---
+
+## Model's Accuracy & Charts
+
+### 1) Face and Mri Model:
+![image](https://github.com/user-attachments/assets/ca5c6c8d-38cf-44ea-b552-1f150c5d3b12)
+
+![image](https://github.com/user-attachments/assets/e2a664eb-952b-4826-ab63-5b6bcbf09cd0)
+
+### 2) Autism Spectrum Questionnaire Model:
+![image](https://github.com/user-attachments/assets/b77376a3-ed57-4df0-8f46-87755122dd4e)
+
+### 3) Meta-Model:
+![image](https://github.com/user-attachments/assets/f70efc6d-b468-4af0-b508-023d698ea8e4)
 
 ---
 
