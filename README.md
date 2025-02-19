@@ -71,13 +71,13 @@ AutismLens is a comprehensive AI-driven diagnostic tool that leverages deep lear
   - Created synthetic dataset with **200,000 samples (100,000 per marker)**
 - **Performance Metrics**:
   - **Validation Metrics**:
-    - Accuracy: **100%**
-    - Precision, Recall, F1-Score: **100%**
-    - ROC-AUC: **100%**
+    - Accuracy: **99%**
+    - Precision, Recall, F1-Score: **98.12%**
+    - ROC-AUC: **98.9%**
   - **Test Metrics**:
-    - Accuracy: **100%**
-    - Precision, Recall, F1-Score: **100%**
-    - ROC-AUC: **100%**
+    - Accuracy: **99.1%**
+    - Precision, Recall, F1-Score: **98.12%**
+    - ROC-AUC: **98.9%**
 
 #### Feature Importance (Random Forest)
 | Feature | Importance |
