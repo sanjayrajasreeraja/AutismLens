@@ -3,6 +3,8 @@
 ## Overview
 AutismLens is a comprehensive AI-driven diagnostic tool that leverages deep learning and machine learning techniques to assist in the early detection of Autism Spectrum Disorder (ASD). This project integrates multiple models to analyze facial images, MRI scans, and Autism Spectrum Quotient (ASQ) survey responses, culminating in a powerful meta-model that enhances diagnostic accuracy. The system is deployed as a user-friendly Streamlit web application, providing accessible diagnostics and automated report generation using Large Language Models (LLM).
 
+--- 
+
 ## Features
 - **Image Classification Model (MobileNet)**: Classifies facial and MRI images into autistic and non-autistic categories.
 - **ASQ-based Autism Prediction Model**: Uses survey data with attributes like age, sex, and ethnicity to predict ASD likelihood.
@@ -85,6 +87,27 @@ AutismLens is a comprehensive AI-driven diagnostic tool that leverages deep lear
 | Probability - Autism Face | 0.36 |
 | Probability - Autism MRI | 0.36 |
 | Probability - ASQ Autism | 0.28 |
+
+---
+
+## Dataset
+
+### 1) Face and Mri Image Dataset:
+- Autistic_Face:
+![image](https://github.com/user-attachments/assets/4230468f-188b-48c7-b46c-40d7b2468f26)
+
+- Non_Autistic_Face:
+![image](https://github.com/user-attachments/assets/46832fe9-a939-4d18-94f3-29a6219eb19b)
+
+- Autistic_MRI:
+![image](https://github.com/user-attachments/assets/8aaacdc5-b52c-44b9-bff6-38bb7cb7f96a)
+
+- Non_Autistic_MRI:
+![image](https://github.com/user-attachments/assets/70d67267-c51a-46b9-b4d0-02a98be6537c)
+
+### 2) Autism Spectrum Questionnaire Dataset:
+
+### 3) Meta-Model Dataset:
 
 ---
 
