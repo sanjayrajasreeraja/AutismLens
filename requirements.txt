@@ -11,3 +11,4 @@ reportlab
 requests
 groq
 keras
+opencv-python-headless
